@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.396ac130.css",
+    "main.js": "/static/js/main.f7434921.js",
+    "static/media/vc2.png": "/static/media/vc2.03d7423d301c8c0058fd.png",
+    "static/media/irslogo.png": "/static/media/irslogo.08983ecb2461b9e19eb7.png",
+    "index.html": "/index.html",
+    "main.396ac130.css.map": "/static/css/main.396ac130.css.map",
+    "main.f7434921.js.map": "/static/js/main.f7434921.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.396ac130.css",
+    "static/js/main.f7434921.js"
+  ]
+}
